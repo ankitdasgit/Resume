@@ -1,6 +1,6 @@
 # Resume!
 
-#[ankit resume 22.pdf](https://github.com/ankitdasgit/Resume/files/10278132/ankit.resume.22.pdf)
+
 
 [ankit resume 22.pdf](https://github.com/ankitdasgit/Resume/blob/main/ankit_kumar_das_Resume.pdf)
 
